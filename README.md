@@ -50,7 +50,7 @@ A map-centric, event-driven full-stack platform.
 
 `Java` `Spring Boot` `PostgreSQL` `PostGIS` `Kafka` `Redis` `Docker` `React` `Leaflet.js`
 
-### 🛰️ [SIH 2025: ShuddhData & GNSS](https://github.com/aditya2964)
+### 🛰️ [SIH 2025: ShuddhData & GNSS](https://github.com/adityapal2964/)
 Led a 4-member team at Smart India Hackathon 2025.
 - LSTM-based GNSS signal forecasting model, **12% lower MAE** across 50,000+ data points
 - C++ secure data sanitization utility (Gutmann and DoD wiping algorithms)
